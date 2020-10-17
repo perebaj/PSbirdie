@@ -1,0 +1,2911 @@
+{
+    "itemCount": 101,
+    "categories": [],
+    "itemList": [
+        {
+            "product": {
+                "omniItemId": "1001105742",
+                "additionalBadges": [
+                    "EnergyStar",
+                    "Only at Lowes"
+                ],
+                "brand": "Hisense",
+                "description": "17.1-cu ft Counter-depth Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1405576",
+                "modelId": "HBM17158SS",
+                "pdURL": "/pd/Hisense-17-1-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-Stainless-Steel-ENERGY-STAR/1001105742",
+                "rating": "4.2963",
+                "reviewCount": "162",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "57007",
+                "showVariants": false,
+                "title": "Hisense 17.1-cu ft Counter-depth Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/819130/819130025995.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50161485",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "22.07-cu ft Bottom-Freezer Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "51877",
+                "modelId": "WRB322DMBM",
+                "pdURL": "/pd/Whirlpool-22-07-cu-ft-Bottom-Freezer-Refrigerator-with-Ice-Maker-Stainless-Steel-ENERGY-STAR/50161485",
+                "rating": "4.5634",
+                "reviewCount": "7731",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 22.07-cu ft Bottom-Freezer Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049288505.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002543648",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "LG",
+                "description": "25.5-cu ft Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Printproof Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1697384",
+                "modelId": "LRDCS2603S",
+                "pdURL": "/pd/LG-25-5-cu-ft-Bottom-Freezer-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Printproof-Stainless-Steel-ENERGY-STAR/1002543648",
+                "rating": "4.1684",
+                "reviewCount": "196",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "49317",
+                "showVariants": false,
+                "title": "LG 25.5-cu ft Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Printproof Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/048231/048231803885.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50161487",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "22.07-cu ft Bottom-Freezer Refrigerator with Ice Maker (White) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "52246",
+                "modelId": "WRB322DMBW",
+                "pdURL": "/pd/Whirlpool-22-07-cu-ft-Bottom-Freezer-Refrigerator-with-Ice-Maker-White-ENERGY-STAR/50161487",
+                "rating": "4.5634",
+                "reviewCount": "7731",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 22.07-cu ft Bottom-Freezer Refrigerator with Ice Maker (White) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049288383.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50213441",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "18.7-cu ft Bottom-Freezer Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "618389",
+                "modelId": "WRB329DMBM",
+                "pdURL": "/pd/Whirlpool-18-7-cu-ft-Bottom-Freezer-Refrigerator-with-Ice-Maker-Stainless-Steel-ENERGY-STAR/50213441",
+                "rating": "4.4719",
+                "reviewCount": "1049",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 18.7-cu ft Bottom-Freezer Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049288567.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50161483",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "22.07-cu ft Bottom-Freezer Refrigerator with Ice Maker (Black) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "51690",
+                "modelId": "WRB322DMBB",
+                "pdURL": "/pd/Whirlpool-22-07-cu-ft-Bottom-Freezer-Refrigerator-with-Ice-Maker-Black-ENERGY-STAR/50161483",
+                "rating": "4.5634",
+                "reviewCount": "7731",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 22.07-cu ft Bottom-Freezer Refrigerator with Ice Maker (Black) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049288390.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000060797",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "GE",
+                "description": "20.9-cu ft Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "688373",
+                "modelId": "GBE21DGKBB",
+                "pdURL": "/pd/GE-20-9-cu-ft-Bottom-Freezer-Refrigerator-Black-ENERGY-STAR/1000060797",
+                "rating": "4.0696",
+                "reviewCount": "115",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "83",
+                "showVariants": false,
+                "title": "GE 20.9-cu ft Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "imageUrl": "/product/converted/084691/084691814252.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000485997",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Danby",
+                "description": "9.2-cu ft Bottom-Freezer Refrigerator (Spotless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1109234",
+                "modelId": "DFF092C1BSLDB",
+                "pdURL": "/pd/Danby-9-2-cu-ft-Bottom-Freezer-Refrigerator-Spotless-Steel-ENERGY-STAR/1000485997",
+                "rating": "3.6667",
+                "reviewCount": "6",
+                "status": "ACTIVE",
+                "type": "ANY",
+                "vendorNumber": "25552",
+                "showVariants": false,
+                "title": "Danby 9.2-cu ft Bottom-Freezer Refrigerator (Spotless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/067638/067638999663.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000183181",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Haier",
+                "description": "15-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "groups": [
+                    {
+                        "id": "GR_402",
+                        "type": "COLLECTION",
+                        "url": "/collections/Haier-Bottom-Freezer-Refrigerator-Gas-Range-Suite-in-Stainless-Steel/GR_402"
+                    }
+                ],
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "842271",
+                "modelId": "HRB15N3BGS",
+                "pdURL": "/pd/Haier-15-cu-ft-Bottom-Freezer-Refrigerator-Stainless-Steel-ENERGY-STAR/1000183181",
+                "rating": "4.3676",
+                "reviewCount": "68",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "83",
+                "showVariants": false,
+                "title": "Haier 15-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/688057/688057309811.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002887764",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "894932",
+                "modelId": "WRB543CMJZ",
+                "pdURL": "/pd/Whirlpool-12-7-cu-ft-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Fingerprint-Resistant-Stainless-Finish-ENERGY-STAR/1002887764",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049488721.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002891480",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "13.4-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "2417896",
+                "modelId": "RF135BDLJX4",
+                "pdURL": "/pd/Fisher-Paykel-13-4-cu-ft-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Stainless-steel-ENERGY-STAR/1002891480",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 13.4-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843257973.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000694528",
+                "brand": "Fisher & Paykel",
+                "description": "4 17.1-cu ft Counter-Depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless Steel)",
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1034287",
+                "modelId": "RF170WDLX5 N",
+                "pdURL": "/pd/Fisher-Paykel-4-17-1-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-Fingerprint-Resistant-Ezkleen-Stainless-Steel/1000694528",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 4 17.1-cu ft Counter-Depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless Steel)",
+                "imageUrl": "/product/converted/822843/822843250684.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002887828",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless) ENERGY STAR",
+                "energyStar": true,
+                "groups": [
+                    {
+                        "id": "GR_555",
+                        "type": "COLLECTION",
+                        "url": "/collections/Whirlpool-Bottom-Freezer-Refrigerator-Electric-Range-Suite-in-Fingerprint-Resistant-Stainless-Steel/GR_555"
+                    }
+                ],
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "894939",
+                "modelId": "WRB533CZJZ",
+                "pdURL": "/pd/Whirlpool-12-7-cu-ft-Bottom-Freezer-Refrigerator-Fingerprint-Resistant-Stainless-Finish-ENERGY-STAR/1002887828",
+                "rating": "3.6667",
+                "reviewCount": "3",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049487885.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000486001",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Danby",
+                "description": "9.2-cu ft Bottom-Freezer Refrigerator (White) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1109235",
+                "modelId": "DFF092C1WDB",
+                "pdURL": "/pd/Danby-9-2-cu-ft-Bottom-Freezer-Refrigerator-White-ENERGY-STAR/1000486001",
+                "rating": "4.3333",
+                "reviewCount": "6",
+                "status": "ACTIVE",
+                "type": "ANY",
+                "vendorNumber": "25552",
+                "showVariants": false,
+                "title": "Danby 9.2-cu ft Bottom-Freezer Refrigerator (White) ENERGY STAR",
+                "imageUrl": "/product/converted/067638/067638999670.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000307631",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "GE",
+                "description": "20.9-cu ft Bottom-Freezer Refrigerator with Ice Maker (Black) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "919261",
+                "modelId": "GDE21EGKBB",
+                "pdURL": "/pd/GE-20-9-cu-ft-Bottom-Freezer-Refrigerator-with-Ice-Maker-Black-ENERGY-STAR/1000307631",
+                "rating": "4.4022",
+                "reviewCount": "445",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "83",
+                "showVariants": false,
+                "title": "GE 20.9-cu ft Bottom-Freezer Refrigerator with Ice Maker (Black) ENERGY STAR",
+                "imageUrl": "/product/converted/084691/084691814214.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002887812",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Black Stainless) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "894937",
+                "modelId": "WRB543CMJV",
+                "pdURL": "/pd/Whirlpool-12-7-cu-ft-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Finish-ENERGY-STAR/1002887812",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Black Stainless) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049488738.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000858526",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "LG",
+                "description": "Bottom Freezer Refrigerator 10.1-cu ft Counter-depth Bottom-Freezer Refrigerator (Platinum Silver) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "877328",
+                "modelId": "LBNC10551V",
+                "pdURL": "/pd/LG-Bottom-Freezer-Refrigerator-10-1-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-Platinum-Silver-ENERGY-STAR/1000858526",
+                "rating": "4.3158",
+                "reviewCount": "19",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "49317",
+                "showVariants": false,
+                "title": "LG Bottom Freezer Refrigerator 10.1-cu ft Counter-depth Bottom-Freezer Refrigerator (Platinum Silver) ENERGY STAR",
+                "imageUrl": "/product/converted/048231/048231794640.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1001163520",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "LG",
+                "description": "14.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (Platinum Silver) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1597273",
+                "modelId": "LBNC15231V",
+                "pdURL": "/pd/LG-14-7-cu-ft-Bottom-Freezer-Refrigerator-Platinum-Silver-ENERGY-STAR/1001163520",
+                "rating": "2.8000",
+                "reviewCount": "5",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "49317",
+                "showVariants": false,
+                "title": "LG 14.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (Platinum Silver) ENERGY STAR",
+                "imageUrl": "/product/converted/772454/772454071300.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002891488",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "17.1-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "2417899",
+                "modelId": "RF170WDLJX5",
+                "pdURL": "/pd/Fisher-Paykel-17-1-cu-ft-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Stainless-Steel-ENERGY-STAR/1002891488",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 17.1-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843258000.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002891484",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "13.4-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "2417897",
+                "modelId": "RF135BDRJX4",
+                "pdURL": "/pd/Fisher-Paykel-13-4-cu-ft-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Stainless-steel-ENERGY-STAR/1002891484",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 13.4-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843257980.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1003126364",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Galanz",
+                "description": "12.4-cu ft Bottom-Freezer Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "2693851",
+                "modelId": "GLR12BS2K16",
+                "pdURL": "/pd/Galanz-12-4-cu-ft-Built-in-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Stainless-Steel-ENERGY-STAR/1003126364",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "ANY",
+                "vendorNumber": "102436",
+                "showVariants": false,
+                "title": "Galanz 12.4-cu ft Bottom-Freezer Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/190873/190873003472.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002736888",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "7.95-cu ft Counter-Depth Bottom-Freezer Refrigerator (Gray) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1323687",
+                "modelId": "RB2470BRV1",
+                "pdURL": "/pd/Fisher-Paykel-7-95-cu-ft-Counter-Depth-Bottom-Freezer-Refrigerator-Gray-ENERGY-STAR/1002736888",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 7.95-cu ft Counter-Depth Bottom-Freezer Refrigerator (Gray) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843253814.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002949938",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Samsung",
+                "description": "11.3-cu ft Counter-Depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "2514539",
+                "modelId": "RB10FSR4ESR",
+                "pdURL": "/pd/Samsung-11-3-cu-ft-Bottom-Freezer-Refrigerator-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR/1002949938",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "149",
+                "showVariants": false,
+                "title": "Samsung 11.3-cu ft Counter-Depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/887276/887276390154.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002887796",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (White) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "894936",
+                "modelId": "WRB533CZJW",
+                "pdURL": "/pd/Whirlpool-12-7-cu-ft-Bottom-Freezer-Refrigerator-White-ENERGY-STAR/1002887796",
+                "rating": "3.0000",
+                "reviewCount": "1",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (White) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049487854.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002887780",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "894934",
+                "modelId": "WRB533CZJB",
+                "pdURL": "/pd/Whirlpool-12-7-cu-ft-Bottom-Freezer-Refrigerator-Black-ENERGY-STAR/1002887780",
+                "rating": "3.0000",
+                "reviewCount": "1",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 12.7-cu ft Counter-Depth Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049487861.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1002891492",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "17.1-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "2417900",
+                "modelId": "RF170WDRJX5",
+                "pdURL": "/pd/Fisher-Paykel-17-1-cu-ft-Bottom-Freezer-Refrigerator-Single-Ice-Maker-Stainless-Steel-ENERGY-STAR/1002891492",
+                "rating": "5.0000",
+                "reviewCount": "1",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 17.1-cu ft Counter-Depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843258017.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50426184",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "KitchenAid",
+                "description": "22.07-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "589404",
+                "modelId": "KRBR102ESS",
+                "pdURL": "/pd/KitchenAid-22-07-cu-ft-Bottom-Freezer-Refrigerator-Stainless-Steel-ENERGY-STAR/50426184",
+                "rating": "4.4341",
+                "reviewCount": "129",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "KitchenAid 22.07-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049361062.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50426172",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "KitchenAid",
+                "description": "18.67-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "588976",
+                "modelId": "KRBL109ESS",
+                "pdURL": "/pd/KitchenAid-18-67-cu-ft-Bottom-Freezer-Refrigerator-Stainless-Steel-ENERGY-STAR/50426172",
+                "rating": "4.1098",
+                "reviewCount": "337",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "KitchenAid 18.67-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049361031.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50426188",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "KitchenAid",
+                "description": "18.67-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "589408",
+                "modelId": "KRBR109ESS",
+                "pdURL": "/pd/KitchenAid-18-67-cu-ft-Bottom-Freezer-Refrigerator-Stainless-Steel-ENERGY-STAR/50426188",
+                "rating": "4.1035",
+                "reviewCount": "338",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "KitchenAid 18.67-cu ft Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049361024.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50408914",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Bosch",
+                "description": "800 10.07-cu ft Counter-depth Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "538181",
+                "modelId": "B10CB80NVB",
+                "pdURL": "/pd/Bosch-800-10-07-cu-ft-Counter-depth-Bottom-Freezer-Refri/50408914",
+                "rating": "4.8000",
+                "reviewCount": "5",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "39047",
+                "showVariants": false,
+                "title": "Bosch 800 10.07-cu ft Counter-depth Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "imageUrl": "/product/converted/825225/825225917281.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000580057",
+                "brand": "Fisher & Paykel",
+                "description": "ActiveSmart 13.4-cu ft Counter-depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel)",
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1034279",
+                "modelId": "RF135BDLUX4 N",
+                "pdURL": "/pd/Fisher-Paykel-ActiveSmart-13-4-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000580057",
+                "rating": "0",
+                "reviewCount": "0",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel ActiveSmart 13.4-cu ft Counter-depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel)",
+                "imageUrl": "/product/converted/822843/822843250622.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000507261",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "ActiveSmart 17.1-cu ft Counter-depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1034286",
+                "modelId": "RF170WDRX5 N",
+                "pdURL": "/pd/Fisher-Paykel-ActiveSmart-17-1-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR/1000507261",
+                "rating": "2.8333",
+                "reviewCount": "6",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel ActiveSmart 17.1-cu ft Counter-depth Bottom-Freezer Refrigerator (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843250707.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "1000507259",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Fisher & Paykel",
+                "description": "17.5-cu ft Counter-depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "1034285",
+                "modelId": "RF170BLPUX6 N",
+                "pdURL": "/pd/Fisher-Paykel-17-5-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR/1000507259",
+                "rating": "2.8000",
+                "reviewCount": "5",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "45535",
+                "showVariants": false,
+                "title": "Fisher & Paykel 17.5-cu ft Counter-depth Bottom-Freezer Refrigerator with Ice Maker (Fingerprint-Resistant Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/822843/822843251049.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50170423",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "18.7-cu ft Bottom-Freezer Refrigerator (White) ENERGY STAR",
+                "energyStar": true,
+                "groups": [
+                    {
+                        "id": "GR_416",
+                        "type": "COLLECTION",
+                        "url": "/collections/Whirlpool-Bottom-Freezer-Refrigerator-Electric-Range-Suite-in-White/GR_416"
+                    }
+                ],
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "599526",
+                "modelId": "WRB119WFBW",
+                "pdURL": "/pd/Whirlpool-18-7-cu-ft-Bottom-Freezer-Refrigerator-White-ENERGY-STAR/50170423",
+                "rating": "4.4580",
+                "reviewCount": "655",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 18.7-cu ft Bottom-Freezer Refrigerator (White) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049288529.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50170455",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Bosch",
+                "description": "500 11-cu ft Counter-depth Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "energyStar": true,
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "594063",
+                "modelId": "B11CB50SSS",
+                "pdURL": "/pd/Bosch-500-11-cu-ft-Counter-depth-Bottom-Freezer-Refriger/50170455",
+                "rating": "4.1333",
+                "reviewCount": "15",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "39047",
+                "showVariants": false,
+                "title": "Bosch 500 11-cu ft Counter-depth Bottom-Freezer Refrigerator (Stainless Steel) ENERGY STAR",
+                "imageUrl": "/product/converted/825225/825225908852.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        },
+        {
+            "product": {
+                "omniItemId": "50170421",
+                "additionalBadges": [
+                    "EnergyStar"
+                ],
+                "brand": "Whirlpool",
+                "description": "18.7-cu ft Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "energyStar": true,
+                "groups": [
+                    {
+                        "id": "GR_397",
+                        "type": "COLLECTION",
+                        "url": "/collections/Whirlpool-Bottom-Freezer-Refrigerator-Electric-Range-Suite-in-Black/GR_397"
+                    }
+                ],
+                "isPublished": true,
+                "isBuyable": true,
+                "itemNumber": "599525",
+                "modelId": "WRB119WFBB",
+                "pdURL": "/pd/Whirlpool-18-7-cu-ft-Bottom-Freezer-Refrigerator-Black-ENERGY-STAR/50170421",
+                "rating": "4.4580",
+                "reviewCount": "655",
+                "status": "ACTIVE",
+                "type": "LOCALONLY",
+                "vendorNumber": "46",
+                "showVariants": false,
+                "title": "Whirlpool 18.7-cu ft Bottom-Freezer Refrigerator (Black) ENERGY STAR",
+                "imageUrl": "/product/converted/883049/883049288536.jpg"
+            },
+            "location": {
+                "restriction": {},
+                "sosVendorDirect": false
+            },
+            "realTime": true,
+            "noAvlblMessaging": true
+        }
+    ],
+    "facets": [
+        {
+            "name": "Brand",
+            "facetValues": [
+                {
+                    "name": "Fisher & Paykel",
+                    "navStateID": "4294965345",
+                    "seoUrlLowes": "/pl/Fisher-paykel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965345",
+                    "itemCount": 28
+                },
+                {
+                    "name": "Whirlpool",
+                    "navStateID": "4294965476",
+                    "seoUrlLowes": "/pl/Whirlpool--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965476",
+                    "itemCount": 15
+                },
+                {
+                    "name": "Bosch",
+                    "navStateID": "4294965864",
+                    "seoUrlLowes": "/pl/Bosch--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965864",
+                    "itemCount": 9
+                },
+                {
+                    "name": "GE",
+                    "navStateID": "4294965819",
+                    "seoUrlLowes": "/pl/Ge--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965819",
+                    "itemCount": 9
+                },
+                {
+                    "name": "Amana",
+                    "navStateID": "4294962184",
+                    "seoUrlLowes": "/pl/Amana--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294962184",
+                    "itemCount": 8
+                },
+                {
+                    "name": "KitchenAid",
+                    "navStateID": "4294965636",
+                    "seoUrlLowes": "/pl/Kitchenaid--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965636",
+                    "itemCount": 7
+                },
+                {
+                    "name": "Chambers",
+                    "navStateID": "2462327569",
+                    "seoUrlLowes": "/pl/Chambers--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2462327569",
+                    "itemCount": 6
+                },
+                {
+                    "name": "LG",
+                    "navStateID": "4294801527",
+                    "seoUrlLowes": "/pl/Lg--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294801527",
+                    "itemCount": 4
+                },
+                {
+                    "name": "Summit Appliance",
+                    "navStateID": "183211749",
+                    "seoUrlLowes": "/pl/Summit-appliance--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=183211749",
+                    "itemCount": 4
+                },
+                {
+                    "name": "Danby",
+                    "navStateID": "4294814200",
+                    "seoUrlLowes": "/pl/Danby--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294814200",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Galanz",
+                    "navStateID": "4294622859",
+                    "seoUrlLowes": "/pl/Galanz--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294622859",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Maytag",
+                    "navStateID": "4294965144",
+                    "seoUrlLowes": "/pl/Maytag--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965144",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Avanti",
+                    "navStateID": "4294647903",
+                    "seoUrlLowes": "/pl/Avanti--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294647903",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Equator Advanced Appliances",
+                    "navStateID": "4167465849",
+                    "seoUrlLowes": "/pl/Equator-advanced-appliances--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4167465849",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Haier",
+                    "navStateID": "4294962809",
+                    "seoUrlLowes": "/pl/Haier--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294962809",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Hisense",
+                    "navStateID": "4294712086",
+                    "seoUrlLowes": "/pl/Hisense--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294712086",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Samsung",
+                    "navStateID": "4294963507",
+                    "seoUrlLowes": "/pl/Samsung--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294963507",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Fisher & Paykel",
+                    "navStateID": "4294965345",
+                    "seoUrlLowes": "/pl/Fisher-paykel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965345",
+                    "itemCount": 28
+                },
+                {
+                    "name": "Whirlpool",
+                    "navStateID": "4294965476",
+                    "seoUrlLowes": "/pl/Whirlpool--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965476",
+                    "itemCount": 15
+                },
+                {
+                    "name": "Bosch",
+                    "navStateID": "4294965864",
+                    "seoUrlLowes": "/pl/Bosch--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965864",
+                    "itemCount": 9
+                },
+                {
+                    "name": "GE",
+                    "navStateID": "4294965819",
+                    "seoUrlLowes": "/pl/Ge--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965819",
+                    "itemCount": 9
+                },
+                {
+                    "name": "Amana",
+                    "navStateID": "4294962184",
+                    "seoUrlLowes": "/pl/Amana--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294962184",
+                    "itemCount": 8
+                },
+                {
+                    "name": "KitchenAid",
+                    "navStateID": "4294965636",
+                    "seoUrlLowes": "/pl/Kitchenaid--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965636",
+                    "itemCount": 7
+                },
+                {
+                    "name": "Chambers",
+                    "navStateID": "2462327569",
+                    "seoUrlLowes": "/pl/Chambers--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2462327569",
+                    "itemCount": 6
+                },
+                {
+                    "name": "LG",
+                    "navStateID": "4294801527",
+                    "seoUrlLowes": "/pl/Lg--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294801527",
+                    "itemCount": 4
+                },
+                {
+                    "name": "Summit Appliance",
+                    "navStateID": "183211749",
+                    "seoUrlLowes": "/pl/Summit-appliance--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=183211749",
+                    "itemCount": 4
+                },
+                {
+                    "name": "Danby",
+                    "navStateID": "4294814200",
+                    "seoUrlLowes": "/pl/Danby--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294814200",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Galanz",
+                    "navStateID": "4294622859",
+                    "seoUrlLowes": "/pl/Galanz--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294622859",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Maytag",
+                    "navStateID": "4294965144",
+                    "seoUrlLowes": "/pl/Maytag--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965144",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Avanti",
+                    "navStateID": "4294647903",
+                    "seoUrlLowes": "/pl/Avanti--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294647903",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Equator Advanced Appliances",
+                    "navStateID": "4167465849",
+                    "seoUrlLowes": "/pl/Equator-advanced-appliances--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4167465849",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Haier",
+                    "navStateID": "4294962809",
+                    "seoUrlLowes": "/pl/Haier--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294962809",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Hisense",
+                    "navStateID": "4294712086",
+                    "seoUrlLowes": "/pl/Hisense--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294712086",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Samsung",
+                    "navStateID": "4294963507",
+                    "seoUrlLowes": "/pl/Samsung--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294963507",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Appliance Color/Finish",
+            "facetValues": [
+                {
+                    "name": "Stainless steel",
+                    "navStateID": "4294796421",
+                    "seoUrlLowes": "/pl/Stainless-steel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796421",
+                    "itemCount": 57
+                },
+                {
+                    "name": "White",
+                    "navStateID": "4294796430",
+                    "seoUrlLowes": "/pl/White--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796430",
+                    "itemCount": 15
+                },
+                {
+                    "name": "Black",
+                    "navStateID": "4294796428",
+                    "seoUrlLowes": "/pl/Black--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796428",
+                    "itemCount": 11
+                },
+                {
+                    "name": "Custom panel ready",
+                    "navStateID": "1639310534",
+                    "seoUrlLowes": "/pl/Custom-panel-ready--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1639310534",
+                    "itemCount": 7
+                },
+                {
+                    "name": "Black stainless steel",
+                    "navStateID": "4294419242",
+                    "seoUrlLowes": "/pl/Black-stainless-steel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294419242",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Bisque/Biscuit",
+                    "navStateID": "4294796411",
+                    "seoUrlLowes": "/pl/Bisque-biscuit--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796411",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Metallic look",
+                    "navStateID": "3642403873",
+                    "seoUrlLowes": "/pl/Metallic-look--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3642403873",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Red",
+                    "navStateID": "4294622806",
+                    "seoUrlLowes": "/pl/Red--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294622806",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Slate",
+                    "navStateID": "4294482186",
+                    "seoUrlLowes": "/pl/Slate--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294482186",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Stainless look",
+                    "navStateID": "4294796415",
+                    "seoUrlLowes": "/pl/Stainless-look--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796415",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Stainless steel",
+                    "navStateID": "4294796421",
+                    "seoUrlLowes": "/pl/Stainless-steel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796421",
+                    "itemCount": 57
+                },
+                {
+                    "name": "White",
+                    "navStateID": "4294796430",
+                    "seoUrlLowes": "/pl/White--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796430",
+                    "itemCount": 15
+                },
+                {
+                    "name": "Black",
+                    "navStateID": "4294796428",
+                    "seoUrlLowes": "/pl/Black--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796428",
+                    "itemCount": 11
+                },
+                {
+                    "name": "Custom panel ready",
+                    "navStateID": "1639310534",
+                    "seoUrlLowes": "/pl/Custom-panel-ready--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1639310534",
+                    "itemCount": 7
+                },
+                {
+                    "name": "Black stainless steel",
+                    "navStateID": "4294419242",
+                    "seoUrlLowes": "/pl/Black-stainless-steel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294419242",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Bisque/Biscuit",
+                    "navStateID": "4294796411",
+                    "seoUrlLowes": "/pl/Bisque-biscuit--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796411",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Metallic look",
+                    "navStateID": "3642403873",
+                    "seoUrlLowes": "/pl/Metallic-look--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3642403873",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Red",
+                    "navStateID": "4294622806",
+                    "seoUrlLowes": "/pl/Red--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294622806",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Slate",
+                    "navStateID": "4294482186",
+                    "seoUrlLowes": "/pl/Slate--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294482186",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Stainless look",
+                    "navStateID": "4294796415",
+                    "seoUrlLowes": "/pl/Stainless-look--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796415",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Height to Top of Case (in.)",
+            "facetValues": [
+                {
+                    "name": "57 - 60.99",
+                    "navStateID": "1820804903227",
+                    "itemCount": 5
+                },
+                {
+                    "name": "65 - 68.99",
+                    "navStateID": "1921423071336",
+                    "itemCount": 68
+                },
+                {
+                    "name": "69 - 72.99",
+                    "navStateID": "1810066872898",
+                    "itemCount": 10
+                },
+                {
+                    "name": "73 - 76.99",
+                    "navStateID": "1922040613834",
+                    "itemCount": 8
+                },
+                {
+                    "name": "77 - 80.99",
+                    "navStateID": "1820550669600",
+                    "itemCount": 6
+                },
+                {
+                    "name": "81 - 84.99",
+                    "navStateID": "1811636810964",
+                    "itemCount": 4
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "57 - 60.99",
+                    "navStateID": "1820804903227",
+                    "itemCount": 5
+                },
+                {
+                    "name": "65 - 68.99",
+                    "navStateID": "1921423071336",
+                    "itemCount": 68
+                },
+                {
+                    "name": "69 - 72.99",
+                    "navStateID": "1810066872898",
+                    "itemCount": 10
+                },
+                {
+                    "name": "73 - 76.99",
+                    "navStateID": "1922040613834",
+                    "itemCount": 8
+                },
+                {
+                    "name": "77 - 80.99",
+                    "navStateID": "1820550669600",
+                    "itemCount": 6
+                },
+                {
+                    "name": "81 - 84.99",
+                    "navStateID": "1811636810964",
+                    "itemCount": 4
+                }
+            ]
+        },
+        {
+            "name": "Ice Maker",
+            "facetValues": [
+                {
+                    "name": "Single",
+                    "navStateID": "4294765697",
+                    "itemCount": 44
+                },
+                {
+                    "name": "None",
+                    "navStateID": "4294765695",
+                    "itemCount": 35
+                },
+                {
+                    "name": "Optional (sold separately)",
+                    "navStateID": "4294651242",
+                    "itemCount": 22
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Single",
+                    "navStateID": "4294765697",
+                    "itemCount": 44
+                },
+                {
+                    "name": "None",
+                    "navStateID": "4294765695",
+                    "itemCount": 35
+                },
+                {
+                    "name": "Optional (sold separately)",
+                    "navStateID": "4294651242",
+                    "itemCount": 22
+                }
+            ]
+        },
+        {
+            "name": "Common Width (Inches)",
+            "facetValues": [
+                {
+                    "name": "30",
+                    "navStateID": "4294582140",
+                    "itemCount": 19
+                },
+                {
+                    "name": "24",
+                    "navStateID": "4294574902",
+                    "itemCount": 18
+                },
+                {
+                    "name": "33",
+                    "navStateID": "4294566238",
+                    "itemCount": 13
+                },
+                {
+                    "name": "32",
+                    "navStateID": "4294582136",
+                    "itemCount": 10
+                },
+                {
+                    "name": "25",
+                    "navStateID": "4294564958",
+                    "itemCount": 8
+                },
+                {
+                    "name": "31",
+                    "navStateID": "4294565034",
+                    "itemCount": 6
+                },
+                {
+                    "name": "22",
+                    "navStateID": "4294564755",
+                    "itemCount": 5
+                },
+                {
+                    "name": "29",
+                    "navStateID": "4294564154",
+                    "itemCount": 5
+                },
+                {
+                    "name": "27",
+                    "navStateID": "4294566744",
+                    "itemCount": 4
+                },
+                {
+                    "name": "36",
+                    "navStateID": "4294581813",
+                    "itemCount": 3
+                },
+                {
+                    "name": "23.81",
+                    "navStateID": "666739658",
+                    "itemCount": 2
+                },
+                {
+                    "name": "28",
+                    "navStateID": "4294566629",
+                    "itemCount": 2
+                },
+                {
+                    "name": "35",
+                    "navStateID": "4294564210",
+                    "itemCount": 2
+                },
+                {
+                    "name": "20.79",
+                    "navStateID": "1321075864821",
+                    "itemCount": 1
+                },
+                {
+                    "name": "23.4",
+                    "navStateID": "1210658034222",
+                    "itemCount": 1
+                },
+                {
+                    "name": "23.43",
+                    "navStateID": "1321075775547",
+                    "itemCount": 1
+                },
+                {
+                    "name": "23.75",
+                    "navStateID": "4294507300",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "30",
+                    "navStateID": "4294582140",
+                    "itemCount": 19
+                },
+                {
+                    "name": "24",
+                    "navStateID": "4294574902",
+                    "itemCount": 18
+                },
+                {
+                    "name": "33",
+                    "navStateID": "4294566238",
+                    "itemCount": 13
+                },
+                {
+                    "name": "32",
+                    "navStateID": "4294582136",
+                    "itemCount": 10
+                },
+                {
+                    "name": "25",
+                    "navStateID": "4294564958",
+                    "itemCount": 8
+                },
+                {
+                    "name": "31",
+                    "navStateID": "4294565034",
+                    "itemCount": 6
+                },
+                {
+                    "name": "22",
+                    "navStateID": "4294564755",
+                    "itemCount": 5
+                },
+                {
+                    "name": "29",
+                    "navStateID": "4294564154",
+                    "itemCount": 5
+                },
+                {
+                    "name": "27",
+                    "navStateID": "4294566744",
+                    "itemCount": 4
+                },
+                {
+                    "name": "36",
+                    "navStateID": "4294581813",
+                    "itemCount": 3
+                },
+                {
+                    "name": "23.81",
+                    "navStateID": "666739658",
+                    "itemCount": 2
+                },
+                {
+                    "name": "28",
+                    "navStateID": "4294566629",
+                    "itemCount": 2
+                },
+                {
+                    "name": "35",
+                    "navStateID": "4294564210",
+                    "itemCount": 2
+                },
+                {
+                    "name": "20.79",
+                    "navStateID": "1321075864821",
+                    "itemCount": 1
+                },
+                {
+                    "name": "23.4",
+                    "navStateID": "1210658034222",
+                    "itemCount": 1
+                },
+                {
+                    "name": "23.43",
+                    "navStateID": "1321075775547",
+                    "itemCount": 1
+                },
+                {
+                    "name": "23.75",
+                    "navStateID": "4294507300",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Total Capacity",
+            "facetValues": [
+                {
+                    "name": "4 - 7.99",
+                    "navStateID": "2325881176",
+                    "itemCount": 3
+                },
+                {
+                    "name": "8 - 11.99",
+                    "navStateID": "2104858846",
+                    "itemCount": 16
+                },
+                {
+                    "name": "12 - 15.99",
+                    "navStateID": "3090691534",
+                    "itemCount": 22
+                },
+                {
+                    "name": "16 - 19.99",
+                    "navStateID": "315938231",
+                    "itemCount": 38
+                },
+                {
+                    "name": "20 - 23.99",
+                    "navStateID": "2154810966",
+                    "itemCount": 19
+                },
+                {
+                    "name": "24 - 27.99",
+                    "navStateID": "4092224060",
+                    "itemCount": 3
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "4 - 7.99",
+                    "navStateID": "2325881176",
+                    "itemCount": 3
+                },
+                {
+                    "name": "8 - 11.99",
+                    "navStateID": "2104858846",
+                    "itemCount": 16
+                },
+                {
+                    "name": "12 - 15.99",
+                    "navStateID": "3090691534",
+                    "itemCount": 22
+                },
+                {
+                    "name": "16 - 19.99",
+                    "navStateID": "315938231",
+                    "itemCount": 38
+                },
+                {
+                    "name": "20 - 23.99",
+                    "navStateID": "2154810966",
+                    "itemCount": 19
+                },
+                {
+                    "name": "24 - 27.99",
+                    "navStateID": "4092224060",
+                    "itemCount": 3
+                }
+            ]
+        },
+        {
+            "name": "Depth Type",
+            "facetValues": [
+                {
+                    "name": "Counter-Depth",
+                    "navStateID": "2032108662",
+                    "seoUrlLowes": "/pl/Counter-depth--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2032108662",
+                    "itemCount": 55
+                },
+                {
+                    "name": "Standard-Depth",
+                    "navStateID": "4042684519",
+                    "seoUrlLowes": "/pl/Standard-depth--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4042684519",
+                    "itemCount": 46
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Counter-Depth",
+                    "navStateID": "2032108662",
+                    "seoUrlLowes": "/pl/Counter-depth--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2032108662",
+                    "itemCount": 55
+                },
+                {
+                    "name": "Standard-Depth",
+                    "navStateID": "4042684519",
+                    "seoUrlLowes": "/pl/Standard-depth--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4042684519",
+                    "itemCount": 46
+                }
+            ]
+        },
+        {
+            "name": "Rating",
+            "facetValues": [
+                {
+                    "name": "4",
+                    "navStateID": "5005561",
+                    "itemCount": 37
+                },
+                {
+                    "name": "5",
+                    "navStateID": "5007197",
+                    "itemCount": 19
+                },
+                {
+                    "name": "3",
+                    "navStateID": "5005562",
+                    "itemCount": 6
+                },
+                {
+                    "name": "1",
+                    "navStateID": "5005558",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "5",
+                    "navStateID": "5007197",
+                    "itemCount": 19
+                },
+                {
+                    "name": "4",
+                    "navStateID": "5005561",
+                    "itemCount": 37
+                },
+                {
+                    "name": "3",
+                    "navStateID": "5005562",
+                    "itemCount": 6
+                },
+                {
+                    "name": "1",
+                    "navStateID": "5005558",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Dispenser Options",
+            "facetValues": [
+                {
+                    "name": "External water dispenser only",
+                    "navStateID": "4294634704",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Filtered ice and water dispenser",
+                    "navStateID": "4294789096",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Ice and water dispenser",
+                    "navStateID": "4294789088",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Filtered water and cubed/crushed ice",
+                    "navStateID": "4294789110",
+                    "itemCount": 2
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "External water dispenser only",
+                    "navStateID": "4294634704",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Filtered ice and water dispenser",
+                    "navStateID": "4294789096",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Ice and water dispenser",
+                    "navStateID": "4294789088",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Filtered water and cubed/crushed ice",
+                    "navStateID": "4294789110",
+                    "itemCount": 2
+                }
+            ]
+        },
+        {
+            "name": "Built-In",
+            "facetValues": [
+                {
+                    "name": "No",
+                    "navStateID": "4294541719",
+                    "seoUrlLowes": "/pl/No--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294541719",
+                    "itemCount": 90
+                },
+                {
+                    "name": "Yes",
+                    "navStateID": "4294541838",
+                    "seoUrlLowes": "/pl/Built-in--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294541838",
+                    "itemCount": 11
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "No",
+                    "navStateID": "4294541719",
+                    "seoUrlLowes": "/pl/No--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294541719",
+                    "itemCount": 90
+                },
+                {
+                    "name": "Yes",
+                    "navStateID": "4294541838",
+                    "seoUrlLowes": "/pl/Built-in--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294541838",
+                    "itemCount": 11
+                }
+            ]
+        },
+        {
+            "name": "Door Style",
+            "facetValues": [
+                {
+                    "name": "Flat",
+                    "navStateID": "4294796702",
+                    "seoUrlLowes": "/pl/Flat--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796702",
+                    "itemCount": 68
+                },
+                {
+                    "name": "Contoured",
+                    "navStateID": "4294796698",
+                    "seoUrlLowes": "/pl/Contoured--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796698",
+                    "itemCount": 27
+                },
+                {
+                    "name": "Panel-ready",
+                    "navStateID": "990737148",
+                    "seoUrlLowes": "/pl/Panel-ready--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=990737148",
+                    "itemCount": 6
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Flat",
+                    "navStateID": "4294796702",
+                    "seoUrlLowes": "/pl/Flat--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796702",
+                    "itemCount": 68
+                },
+                {
+                    "name": "Contoured",
+                    "navStateID": "4294796698",
+                    "seoUrlLowes": "/pl/Contoured--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294796698",
+                    "itemCount": 27
+                },
+                {
+                    "name": "Panel-ready",
+                    "navStateID": "990737148",
+                    "seoUrlLowes": "/pl/Panel-ready--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=990737148",
+                    "itemCount": 6
+                }
+            ]
+        },
+        {
+            "name": "Refrigerator Interior Lighting",
+            "facetValues": [
+                {
+                    "name": "LED",
+                    "navStateID": "4294789097",
+                    "itemCount": 93
+                },
+                {
+                    "name": "Incandescent",
+                    "navStateID": "4294789125",
+                    "itemCount": 8
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "LED",
+                    "navStateID": "4294789097",
+                    "itemCount": 93
+                },
+                {
+                    "name": "Incandescent",
+                    "navStateID": "4294789125",
+                    "itemCount": 8
+                }
+            ]
+        },
+        {
+            "name": "Series Name",
+            "facetValues": [
+                {
+                    "name": "ActiveSmart",
+                    "navStateID": "4294405195",
+                    "seoUrlLowes": "/pl/Activesmart--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294405195",
+                    "itemCount": 5
+                },
+                {
+                    "name": "800",
+                    "navStateID": "4294407585",
+                    "itemCount": 4
+                },
+                {
+                    "name": "NA",
+                    "navStateID": "4294407417",
+                    "seoUrlLowes": "/pl/Na--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294407417",
+                    "itemCount": 4
+                },
+                {
+                    "name": "500",
+                    "navStateID": "4294405766",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Benchmark",
+                    "navStateID": "4294404897",
+                    "seoUrlLowes": "/pl/Benchmark--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294404897",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Chambers Retro Fridges",
+                    "navStateID": "828535204",
+                    "seoUrlLowes": "/pl/Chambers-retro-fridges--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=828535204",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Chambers&#174; Retro Refrigerators",
+                    "navStateID": "1263787092",
+                    "seoUrlLowes": "/pl/Chambers-174-retro-refrigerators--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1263787092",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Fun Fridge",
+                    "navStateID": "1965594973",
+                    "seoUrlLowes": "/pl/Fun-fridge--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1965594973",
+                    "itemCount": 2
+                },
+                {
+                    "name": "4",
+                    "navStateID": "4294405279",
+                    "itemCount": 1
+                },
+                {
+                    "name": "5",
+                    "navStateID": "4294405278",
+                    "itemCount": 1
+                },
+                {
+                    "name": "800 Series custom panel with Home Connect",
+                    "navStateID": "2610986205196",
+                    "seoUrlLowes": "/pl/800-series-custom-panel-with-home-connect--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2610986205196",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Bottom Freezer Refrigerator",
+                    "navStateID": "744968928",
+                    "seoUrlLowes": "/pl/Bottom-freezer-refrigerator--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=744968928",
+                    "itemCount": 1
+                },
+                {
+                    "name": "MDRF375",
+                    "navStateID": "911591725945",
+                    "seoUrlLowes": "/pl/Mdrf375--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=911591725945",
+                    "itemCount": 1
+                },
+                {
+                    "name": "RF170W",
+                    "navStateID": "1622601309",
+                    "seoUrlLowes": "/pl/Rf170w--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1622601309",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "ActiveSmart",
+                    "navStateID": "4294405195",
+                    "seoUrlLowes": "/pl/Activesmart--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294405195",
+                    "itemCount": 5
+                },
+                {
+                    "name": "800",
+                    "navStateID": "4294407585",
+                    "itemCount": 4
+                },
+                {
+                    "name": "NA",
+                    "navStateID": "4294407417",
+                    "seoUrlLowes": "/pl/Na--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294407417",
+                    "itemCount": 4
+                },
+                {
+                    "name": "500",
+                    "navStateID": "4294405766",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Benchmark",
+                    "navStateID": "4294404897",
+                    "seoUrlLowes": "/pl/Benchmark--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294404897",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Chambers Retro Fridges",
+                    "navStateID": "828535204",
+                    "seoUrlLowes": "/pl/Chambers-retro-fridges--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=828535204",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Chambers&#174; Retro Refrigerators",
+                    "navStateID": "1263787092",
+                    "seoUrlLowes": "/pl/Chambers-174-retro-refrigerators--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1263787092",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Fun Fridge",
+                    "navStateID": "1965594973",
+                    "seoUrlLowes": "/pl/Fun-fridge--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1965594973",
+                    "itemCount": 2
+                },
+                {
+                    "name": "4",
+                    "navStateID": "4294405279",
+                    "itemCount": 1
+                },
+                {
+                    "name": "5",
+                    "navStateID": "4294405278",
+                    "itemCount": 1
+                },
+                {
+                    "name": "800 Series custom panel with Home Connect",
+                    "navStateID": "2610986205196",
+                    "seoUrlLowes": "/pl/800-series-custom-panel-with-home-connect--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2610986205196",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Bottom Freezer Refrigerator",
+                    "navStateID": "744968928",
+                    "seoUrlLowes": "/pl/Bottom-freezer-refrigerator--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=744968928",
+                    "itemCount": 1
+                },
+                {
+                    "name": "MDRF375",
+                    "navStateID": "911591725945",
+                    "seoUrlLowes": "/pl/Mdrf375--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=911591725945",
+                    "itemCount": 1
+                },
+                {
+                    "name": "RF170W",
+                    "navStateID": "1622601309",
+                    "seoUrlLowes": "/pl/Rf170w--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1622601309",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Sub-Brand",
+            "facetValues": [
+                {
+                    "name": "Professional",
+                    "navStateID": "4294705699",
+                    "seoUrlLowes": "/pl/Professional--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294705699",
+                    "itemCount": 4
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Professional",
+                    "navStateID": "4294705699",
+                    "seoUrlLowes": "/pl/Professional--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294705699",
+                    "itemCount": 4
+                }
+            ]
+        },
+        {
+            "name": "Smart Compatible",
+            "facetValues": [
+                {
+                    "name": "No",
+                    "navStateID": "3015138250",
+                    "seoUrlLowes": "/pl/No--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3015138250",
+                    "itemCount": 83
+                },
+                {
+                    "name": "Yes",
+                    "navStateID": "4246655709",
+                    "seoUrlLowes": "/pl/Smart-compatible--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4246655709",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "No",
+                    "navStateID": "3015138250",
+                    "seoUrlLowes": "/pl/No--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3015138250",
+                    "itemCount": 83
+                },
+                {
+                    "name": "Yes",
+                    "navStateID": "4246655709",
+                    "seoUrlLowes": "/pl/Smart-compatible--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4246655709",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Height with Hinge (Inches)",
+            "facetValues": [
+                {
+                    "name": "65 - 69.99",
+                    "navStateID": "31882561",
+                    "itemCount": 58
+                },
+                {
+                    "name": "70 - 74.99",
+                    "navStateID": "2528821582",
+                    "itemCount": 23
+                },
+                {
+                    "name": "75 - 79.99",
+                    "navStateID": "1949852259",
+                    "itemCount": 7
+                },
+                {
+                    "name": "80+",
+                    "navStateID": "1808193302",
+                    "itemCount": 7
+                },
+                {
+                    "name": "0 - 54.99",
+                    "navStateID": "1580466834",
+                    "itemCount": 3
+                },
+                {
+                    "name": "55 - 59.99",
+                    "navStateID": "4059654550",
+                    "itemCount": 3
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "65 - 69.99",
+                    "navStateID": "31882561",
+                    "itemCount": 58
+                },
+                {
+                    "name": "70 - 74.99",
+                    "navStateID": "2528821582",
+                    "itemCount": 23
+                },
+                {
+                    "name": "75 - 79.99",
+                    "navStateID": "1949852259",
+                    "itemCount": 7
+                },
+                {
+                    "name": "80+",
+                    "navStateID": "1808193302",
+                    "itemCount": 7
+                },
+                {
+                    "name": "0 - 54.99",
+                    "navStateID": "1580466834",
+                    "itemCount": 3
+                },
+                {
+                    "name": "55 - 59.99",
+                    "navStateID": "4059654550",
+                    "itemCount": 3
+                }
+            ]
+        },
+        {
+            "name": "Depth without Handles (Inches)",
+            "facetValues": [
+                {
+                    "name": "24 - 27.99",
+                    "navStateID": "1767959592",
+                    "itemCount": 49
+                },
+                {
+                    "name": "28 - 31.99",
+                    "navStateID": "3513736726",
+                    "itemCount": 30
+                },
+                {
+                    "name": "32 - 35.99",
+                    "navStateID": "1935619868",
+                    "itemCount": 12
+                },
+                {
+                    "name": "20 - 23.99",
+                    "navStateID": "713991470",
+                    "itemCount": 10
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "24 - 27.99",
+                    "navStateID": "1767959592",
+                    "itemCount": 49
+                },
+                {
+                    "name": "28 - 31.99",
+                    "navStateID": "3513736726",
+                    "itemCount": 30
+                },
+                {
+                    "name": "32 - 35.99",
+                    "navStateID": "1935619868",
+                    "itemCount": 12
+                },
+                {
+                    "name": "20 - 23.99",
+                    "navStateID": "713991470",
+                    "itemCount": 10
+                }
+            ]
+        },
+        {
+            "name": "Features",
+            "facetValues": [
+                {
+                    "name": "Fingerprint-Resistant",
+                    "navStateID": "1302652729",
+                    "seoUrlLowes": "/pl/Fingerprint-resistant--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1302652729",
+                    "itemCount": 36
+                },
+                {
+                    "name": "ENERGY STAR Certified",
+                    "navStateID": "4294391932",
+                    "seoUrlLowes": "/pl/Energy-star-certified--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294391932",
+                    "itemCount": 85
+                },
+                {
+                    "name": "Gallon Door Storage",
+                    "navStateID": "4294574522",
+                    "seoUrlLowes": "/pl/Gallon-door-storage--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294574522",
+                    "itemCount": 44
+                },
+                {
+                    "name": "Wi-Fi Compatibility",
+                    "navStateID": "4286304582",
+                    "seoUrlLowes": "/pl/Wi-fi-compatibility--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4286304582",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Reversible Door",
+                    "navStateID": "4294806061",
+                    "seoUrlLowes": "/pl/Reversible-door--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294806061",
+                    "itemCount": 57
+                },
+                {
+                    "name": "Freezer Light",
+                    "navStateID": "1629718583",
+                    "seoUrlLowes": "/pl/Freezer-light--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1629718583",
+                    "itemCount": 41
+                },
+                {
+                    "name": "ADA Compliant",
+                    "navStateID": "4294787044",
+                    "seoUrlLowes": "/pl/Ada-compliant--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294787044",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Temperature Controlled Drawer",
+                    "navStateID": "1042118461",
+                    "seoUrlLowes": "/pl/Temperature-controlled-drawer--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1042118461",
+                    "itemCount": 34
+                },
+                {
+                    "name": "Space-Saving In -Door Ice",
+                    "navStateID": "28583363",
+                    "seoUrlLowes": "/pl/Space-saving-in-door-ice--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=28583363",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Child Safety Locks",
+                    "navStateID": "363412272",
+                    "seoUrlLowes": "/pl/Child-safety-locks--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=363412272",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Door Alarm",
+                    "navStateID": "3541234836",
+                    "seoUrlLowes": "/pl/Door-alarm--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3541234836",
+                    "itemCount": 59
+                },
+                {
+                    "name": "DispenserLight",
+                    "navStateID": "3591568293",
+                    "seoUrlLowes": "/pl/Dispenserlight--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3591568293",
+                    "itemCount": 10
+                },
+                {
+                    "name": "Air Filtration",
+                    "navStateID": "2404649491",
+                    "seoUrlLowes": "/pl/Air-filtration--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2404649491",
+                    "itemCount": 36
+                },
+                {
+                    "name": "Dual Evaporator Cooling System",
+                    "navStateID": "3850429958",
+                    "seoUrlLowes": "/pl/Dual-evaporator-cooling-system--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3850429958",
+                    "itemCount": 7
+                },
+                {
+                    "name": "Lowe's Exclusive",
+                    "navStateID": "4294791438",
+                    "seoUrlLowes": "/pl/Lowe-s-exclusive--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294791438",
+                    "itemCount": 1
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Fingerprint-Resistant",
+                    "navStateID": "1302652729",
+                    "seoUrlLowes": "/pl/Fingerprint-resistant--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1302652729",
+                    "itemCount": 36
+                },
+                {
+                    "name": "ENERGY STAR Certified",
+                    "navStateID": "4294391932",
+                    "seoUrlLowes": "/pl/Energy-star-certified--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294391932",
+                    "itemCount": 85
+                },
+                {
+                    "name": "Gallon Door Storage",
+                    "navStateID": "4294574522",
+                    "seoUrlLowes": "/pl/Gallon-door-storage--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294574522",
+                    "itemCount": 44
+                },
+                {
+                    "name": "Wi-Fi Compatibility",
+                    "navStateID": "4286304582",
+                    "seoUrlLowes": "/pl/Wi-fi-compatibility--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4286304582",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Reversible Door",
+                    "navStateID": "4294806061",
+                    "seoUrlLowes": "/pl/Reversible-door--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294806061",
+                    "itemCount": 57
+                },
+                {
+                    "name": "Freezer Light",
+                    "navStateID": "1629718583",
+                    "seoUrlLowes": "/pl/Freezer-light--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1629718583",
+                    "itemCount": 41
+                },
+                {
+                    "name": "ADA Compliant",
+                    "navStateID": "4294787044",
+                    "seoUrlLowes": "/pl/Ada-compliant--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294787044",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Temperature Controlled Drawer",
+                    "navStateID": "1042118461",
+                    "seoUrlLowes": "/pl/Temperature-controlled-drawer--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=1042118461",
+                    "itemCount": 34
+                },
+                {
+                    "name": "Space-Saving In -Door Ice",
+                    "navStateID": "28583363",
+                    "seoUrlLowes": "/pl/Space-saving-in-door-ice--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=28583363",
+                    "itemCount": 1
+                },
+                {
+                    "name": "Child Safety Locks",
+                    "navStateID": "363412272",
+                    "seoUrlLowes": "/pl/Child-safety-locks--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=363412272",
+                    "itemCount": 3
+                },
+                {
+                    "name": "Door Alarm",
+                    "navStateID": "3541234836",
+                    "seoUrlLowes": "/pl/Door-alarm--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3541234836",
+                    "itemCount": 59
+                },
+                {
+                    "name": "DispenserLight",
+                    "navStateID": "3591568293",
+                    "seoUrlLowes": "/pl/Dispenserlight--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3591568293",
+                    "itemCount": 10
+                },
+                {
+                    "name": "Air Filtration",
+                    "navStateID": "2404649491",
+                    "seoUrlLowes": "/pl/Air-filtration--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2404649491",
+                    "itemCount": 36
+                },
+                {
+                    "name": "Dual Evaporator Cooling System",
+                    "navStateID": "3850429958",
+                    "seoUrlLowes": "/pl/Dual-evaporator-cooling-system--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=3850429958",
+                    "itemCount": 7
+                },
+                {
+                    "name": "Lowe's Exclusive",
+                    "navStateID": "4294791438",
+                    "seoUrlLowes": "/pl/Lowe-s-exclusive--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294791438",
+                    "itemCount": 1
+                }
+            ]
+        },
+        {
+            "name": "Works With",
+            "facetValues": [
+                {
+                    "name": "Amazon Alexa",
+                    "navStateID": "880603224",
+                    "itemCount": 3
+                },
+                {
+                    "name": "the Google Assistant",
+                    "navStateID": "4023429307",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Android",
+                    "navStateID": "3532905455",
+                    "itemCount": 2
+                },
+                {
+                    "name": "iOS",
+                    "navStateID": "1358850797",
+                    "itemCount": 4
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Amazon Alexa",
+                    "navStateID": "880603224",
+                    "itemCount": 3
+                },
+                {
+                    "name": "the Google Assistant",
+                    "navStateID": "4023429307",
+                    "itemCount": 2
+                },
+                {
+                    "name": "Android",
+                    "navStateID": "3532905455",
+                    "itemCount": 2
+                },
+                {
+                    "name": "iOS",
+                    "navStateID": "1358850797",
+                    "itemCount": 4
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": [
+        {
+            "name": "Appliances",
+            "nValue": "4294937007",
+            "url": "/c/Appliances"
+        },
+        {
+            "name": "Refrigerators",
+            "nValue": "4294857973",
+            "url": "/c/Refrigerators-Appliances"
+        },
+        {
+            "name": "Bottom-Freezer Refrigerators",
+            "nValue": "4294789499",
+            "url": "/pl/Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499"
+        }
+    ],
+    "selectedFacets": {},
+    "sortMethods": [
+        "sortBy_priceLowToHigh",
+        "sortBy_priceHighToLow",
+        "sortBy_bestSellers",
+        "sortBy_highestRated",
+        "sortBy_brand",
+        "sortBy_newestArrivals"
+    ],
+    "seoFields": [],
+    "marketingZones": {
+        "DesktopBannerMiddle": {
+            "zone": "DesktopBannerMiddle",
+            "name": "Desktop Banner Middle",
+            "title": "Desktop Banner Middle",
+            "style": "DesktopBannerMiddle",
+            "htmlLocation": "/content/banners/desktop/mboxes/List_Page_Credit_Mbox.desktop.html"
+        }
+    },
+    "selectedRefinementsFullURL": "/pl/Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499",
+    "requestParams": {
+        "maxResults": 36,
+        "offset": 0,
+        "channelType": "DESKTOP",
+        "site": "LOWES",
+        "storeNumber": 0,
+        "rollUpVariants": true,
+        "sortMethod": null,
+        "customerType": null,
+        "zipCode": null,
+        "stateCode": null,
+        "customerId": null,
+        "inStock": false,
+        "searchSegment": null,
+        "responseGroup": null,
+        "includeCollection": "1",
+        "searchCluster": null,
+        "searchTerms": null,
+        "protectedQuery": false,
+        "nValue": "4294789499",
+        "facets": null,
+        "searchProfile": null,
+        "realTime": true,
+        "debug": "false",
+        "httpHeaderVersion": "v1",
+        "qcBrandQuery": null,
+        "qcCategoryQuery": null,
+        "qcCategory": null,
+        "qcFilterQuery": null,
+        "searchToken": null,
+        "isRedisCache": false,
+        "clientType": null,
+        "queryString": "offset=0&maxResults=36&rollUpVariants=true&channelType=DESKTOP&inStock=false&protectedQuery=false&department=Departments_Depth%3A3%2FAppliances%2FRefrigerators%2FBottom-Freezer+Refrigerators&includeCollection=1",
+        "selectedSearchTerms": false,
+        "selectedNValue": true
+    },
+    "errorInfo": [],
+    "title": "Bottom-Freezer Refrigerators",
+    "instock": {},
+    "productCount": 101,
+    "pagination": {
+        "page": 1,
+        "pageCount": 3
+    },
+    "spellCorrectedTerms": "",
+    "nValue": "4294789499",
+    "catalog": "",
+    "selectedSortMethod": "",
+    "selectedStoreFilter": "",
+    "offset": 0,
+    "searchTerm": "",
+    "redirectURL": "",
+    "selectedStore": {},
+    "seoWidgetData": {
+        "seoRelatedSearchesData": [
+            {
+                "term": "Whirlpool Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Whirlpool--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965476"
+            },
+            {
+                "term": "Lg Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Lg--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294801527"
+            },
+            {
+                "term": "Ge Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Ge--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965819"
+            },
+            {
+                "term": "Kitchenaid Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Kitchenaid--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965636"
+            },
+            {
+                "term": "Amana Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Amana--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294962184"
+            },
+            {
+                "term": "Bosch Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Bosch--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965864"
+            },
+            {
+                "term": "Fisher paykel Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Fisher-paykel--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=4294965345"
+            },
+            {
+                "term": "Summit appliance Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Summit-appliance--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=183211749"
+            },
+            {
+                "term": "Chambers Bottom freezer refrigerators",
+                "url": "https://www.lowes.com/pl/Chambers--Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499?refinement=2462327569"
+            },
+            {
+                "term": "Samsung Refrigerators",
+                "url": "https://www.lowes.com/pl/Samsung--Refrigerators-Appliances/4294857973?refinement=4294963507"
+            },
+            {
+                "term": "Whirlpool Refrigerators",
+                "url": "https://www.lowes.com/pl/Whirlpool--Refrigerators-Appliances/4294857973?refinement=4294965476"
+            },
+            {
+                "term": "Ge Refrigerators",
+                "url": "https://www.lowes.com/pl/Ge--Refrigerators-Appliances/4294857973?refinement=4294965819"
+            }
+        ],
+        "seoRelatedProductsData": []
+    },
+    "visualFilters": {
+        "facetValues": "4294789499",
+        "title": "",
+        "refinementTypes": null,
+        "filters": []
+    },
+    "visualNavigation": {},
+    "showVisualNavigation": false,
+    "goToProdList": "",
+    "selectedFacetsOrder": [],
+    "seoValues": {
+        "selectedRefinementSEOValues": "",
+        "selectedRefinementsFullURL": "/pl/Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499"
+    },
+    "productListSelectedFacet": [
+        {
+            "name": "Departments",
+            "multiSelect": false,
+            "seoUrl": "/pl/Bottom-freezer-refrigerators-Refrigerators-Appliances/4294789499",
+            "facetValues": [
+                {
+                    "name": "Bottom-Freezer Refrigerators",
+                    "navStateID": "4294789499",
+                    "queryString": "Departments_Depth:3/Appliances/Refrigerators/Bottom-Freezer Refrigerators",
+                    "itemCount": 0,
+                    "displayFacet": true
+                }
+            ],
+            "refinementValues": [
+                {
+                    "name": "Bottom-Freezer Refrigerators",
+                    "navStateID": "4294789499",
+                    "queryString": "Departments_Depth:3/Appliances/Refrigerators/Bottom-Freezer Refrigerators",
+                    "itemCount": 0,
+                    "displayFacet": true
+                }
+            ]
+        }
+    ],
+    "pageRouteName": "pl",
+    "viewport": {
+        "viewportSize": "xl"
+    },
+    "isSearch": false,
+    "site": "lowes",
+    "channel": "desktop",
+    "isZippedIn": false,
+    "env": "production",
+    "assetPath": "https://www.lowescdn.com/node/search/helix/1.0.1/",
+    "runtimeAssetPath": "https://www.lowescdn.com/node/search/helix/1.24.0/",
+    "device": "lg",
+    "clientIp": "127.0.0.1",
+    "services": {
+        "listHost": "http://searchintgsvc.search-intg-ns.svc.cluster.local:8080",
+        "bazaarvoiceHost": "stg.api.bazaarvoice.com",
+        "storeHost": "http://storedata.storelocator.svc.cluster.local:8080",
+        "seoHost": "http://seowidgetdatasvc.seowidget-ns.svc.cluster.local:8080",
+        "itemHost": "http://itemorchsvc.item-orch-ns.svc.cluster.local:8080",
+        "inventoryHost": "http://availabilityinvtsvc.availability-inventory-ns.svc.cluster.local:8080",
+        "visualFilterHost": "http://searchfs.search-fs-ns.svc.cluster.local:8080"
+    },
+    "timeout": {
+        "store": "500",
+        "visualUI": 1000,
+        "seo": 500,
+        "bazaarvoice": 6000,
+        "plApp": 10000,
+        "availability": 2000,
+        "productDetails": 6000
+    },
+    "api": {
+        "keys": {
+            "itemsApiKey": "x-api-version"
+        },
+        "versions": {
+            "itemsApiVersion": "v1"
+        },
+        "host": "",
+        "dtm": "//assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/satelliteLib-ca02d9fa9e40b02d933918b2e1b076208d580fe9.js",
+        "cdnUrl": "https://dev.lowescdn.com/",
+        "domain": "https://www.lowes.com",
+        "seoCopyIncludes": "content/lowes/en_us/contentfragment",
+        "search": "LowesSearchServices/resources/",
+        "appId": "helix-product-list",
+        "gaugeUrl": "https://www.lowescdn.com/gauge/",
+        "gaugeVersion": "https://www.lowescdn.com/gauge/gaugeversion",
+        "pharosUrl": "http://pharoservice.framework.svc.cluster.local:4000/pharos/api/v1/analytics",
+        "platformPl": "GCP Product List Helix",
+        "platformSl": "GCP Search Results Helix",
+        "globalHeaderFooterUrlL": "",
+        "evar": "ABT-3925-A,ABT-3058-A",
+        "persCarouselJsPath": "https://www.lowescdn.com/node/pers/carousel.umd.js",
+        "baymaxUrl": "https://dev.lowescdn.com/dev0034/node/exp-target/exp-pdp.js",
+        "rnrVersion": "https://www.lowescdn.com/www/node/rnr-pres/version",
+        "rnrAssetPath": "https://www.lowescdn.com/www/node/rnr-pres",
+        "bvHost": "prod",
+        "conduitPath": "https://www.lowescdn.com/conduit/1.27.10/conduit-ui.min.js",
+        "scaffoldPath": "https://www.lowescdn.com/scaffold/1.4.6/js/scaffold.min.js",
+        "cqPath": "https://www.lowescdn.com/www/cq/",
+        "cqExportCommons": "/clientlibs/lowes-mobile-first/export-commons.min.js"
+    },
+    "featureflags": {
+        "isStreaming": false,
+        "esiEnabled": true,
+        "isDtmEnabled": true,
+        "isGaugeEnabled": true,
+        "pharosEnabled": false,
+        "enableMedallia": false,
+        "enableReviewSlider": false,
+        "enableRecommendation": true,
+        "enableNLRecommendation": true,
+        "isCollectionEnabled": true,
+        "displayEmployeeDiscount": false,
+        "includeAvailabilityMessages": true,
+        "includeEnhancedAvailabilityMsg": true,
+        "displayAlternateImages": true,
+        "isDTBannerEnabled": true,
+        "isMOWBannerEnabled": true,
+        "isSeoIncludesEnabled": false,
+        "isRemovablePillsEnabled": true,
+        "isSeoWidgetEnabled": true,
+        "isScrollableBreadcrumbEnabled": true,
+        "newSearchNullResultPage": false,
+        "isBaymaxEnabled": false,
+        "isInvalidNvalueRedirectEnabled": true,
+        "isVisualNavigationEnabled": true,
+        "isFilterAndSortCombined": true,
+        "isVisualFilterMicroServiceEnabled": true,
+        "isCollapsibleChipsEnabled": true,
+        "isMobileListGridViewEnabled": false,
+        "enableDynamicImports": false,
+        "showATCPath": false,
+        "bottomInlineContent": true,
+        "isShopCollectionBtnEnabled": false,
+        "isPromoMessagesEnabled": false,
+        "isPromoSlideoutEnabled": false,
+        "displayPvsButton": false
+    },
+    "sites": {
+        "lowes": {
+            "domainName": "Lowes.com",
+            "siteName": "lowes",
+            "site": "LOWES",
+            "productCard": "grid",
+            "esi": {
+                "newMasthead": "/globalassets/masthead/export",
+                "mobile": {
+                    "masthead": "/content/lowes/mobile/en_us/_jcr_content/masthead.mobile.esi.export.html",
+                    "footer": "/content/lowes/mobile/en_us/_jcr_content/footer.mobile.esi.html"
+                },
+                "desktop": {
+                    "masthead": "/content/lowes/desktop/en_us/_jcr_content/masthead.desktop.esi.export.html",
+                    "footer": "/content/lowes/desktop/en_us/_jcr_content/footer.desktop.esi.html"
+                }
+            },
+            "siteUrl": "https://www.lowes.com",
+            "analytics": {},
+            "dtm": {
+                "staging": "//assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/satelliteLib-ca02d9fa9e40b02d933918b2e1b076208d580fe9-staging.js",
+                "prod": "//assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/satelliteLib-ca02d9fa9e40b02d933918b2e1b076208d580fe9.js"
+            },
+            "bazaarvoicePasskey": "eqfxkwqfk36xgvsdg7jtmve2"
+        },
+        "lfp": {
+            "domainName": "Lowesforpros.com",
+            "siteName": "lfp",
+            "productCard": "list",
+            "esi": {
+                "newMasthead": "/globalassets/masthead/export",
+                "mobile": {
+                    "masthead": "/content/lfp/mobile/en_us/_jcr_content/masthead.mobile.esi.export.html",
+                    "footer": "/content/lfp/mobile/en_us/_jcr_content/footer.mobile.esi.html"
+                },
+                "desktop": {
+                    "masthead": "/content/lfp/desktop/en_us/_jcr_content/masthead.desktop.esi.export.html",
+                    "footer": "/content/lfp/desktop/en_us/_jcr_content/footer.desktop.esi.html"
+                }
+            },
+            "siteUrl": "https://www.lowesforpros.com"
+        }
+    },
+    "version": "1.24.0"
+}
