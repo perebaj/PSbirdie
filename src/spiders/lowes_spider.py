@@ -11,7 +11,7 @@ SELECTOR = {
 }
 
 class LowesSpider(scrapy.Spider):
-    name = 'RefrigeratorsIds'
+    name = 'LowesSpider'
     URL = 'https://www.lowes.com'
     products_id = []
 
