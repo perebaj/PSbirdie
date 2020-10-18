@@ -6,8 +6,11 @@ import pickle
 import re
 import json
 
+SELECTOR = {
+    "URL": '#mainContent > div.categorylist > div > div > div > h6 > a ::attr(href)'
+}
 
-class RefrigeratorsHrefSpider(scrapy.Spider):
+class LowesSpider(scrapy.Spider):
     name = 'RefrigeratorsIds'
     URL = 'https://www.lowes.com'
     products_id = []
@@ -18,11 +21,10 @@ class RefrigeratorsHrefSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.href_parse)
 
     def href_parse(self, response):
-        refrigerators_href = response.css(
-            '#mainContent > div.categorylist > div > div > div > h6 > a ::attr(href)').getall()
-        for url in refrigerators_href:
-            refrigerators_url = self.URL + url
-            yield scrapy.Request(url=refrigerators_url, callback=self.page_parse)
+        refrigerators_href_list = response.css(SELECTOR['URL']).getall()
+        for url in refrigerators_href_list:
+            url_list = self.URL + url
+            yield scrapy.Request(url=url_list, callback=self.page_parse)
 
     def page_parse(self, response):
         data = json.loads(re.findall(
@@ -36,6 +38,10 @@ class RefrigeratorsHrefSpider(scrapy.Spider):
     def id_parse(self, response):
         data = json.loads(re.findall(
             '__PRELOADED_STATE__ = ([^<]+)</script>', str(response.text))[0])
-        for products in data['itemList']:
-            self.products_id.append(products['product']['omniItemId'])
-        print(len(self.products_id))
+
+        id_list = [product['product']['omniItemId'] for product in data['itemList']]
+        self.products_id += id_list
+        self.save()
+
+    def save(self):
+        json.dump(self.products_id, open('product-dump.json', 'w'))
