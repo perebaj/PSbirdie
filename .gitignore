@@ -1,3 +1,6 @@
 *-dump.json
 **/__pycache__
 .vscode
+ES-EC2.pem
+node_modules
+.serverless
