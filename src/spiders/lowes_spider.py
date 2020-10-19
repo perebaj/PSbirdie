@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -
 
 import scrapy
-import pickle
 import re
 import json
 
