@@ -34,10 +34,11 @@ class LowesSpider(scrapy.Spider):
     def page_parse(self, response):
         data = json.loads(re.findall(
             '__PRELOADED_STATE__ = ([^<]+)</script>', str(response.text))[0])
-        itemsPage = int(data['itemCount'])
-        numPages = 1 if int(itemsPage/36) == 0 else int(itemsPage/36)+1
+        total_items = int(data['itemCount'])
+        items_per_page = 36
+        numPages = 1 if int(total_items/items_per_page) == 0 else int(total_items/items_per_page)+1
         for page in range(numPages):
-            newPage = response.url + f"?offset={(36*page)}"
+            newPage = response.url + f"?offset={(items_per_page*page)}"
             yield scrapy.Request(url=newPage, callback=self.id_parse)
 
     def id_parse(self, response):

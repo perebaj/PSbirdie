@@ -15,16 +15,16 @@ class ReviewsSpider(scrapy.Spider):
 
     def start_requests(self):
         self.load()
-        # for refrigerator_id in self.refrigerators_id_list[:3]:
-        refrigerator_id = self.refrigerators_id_list[3]
-        product_detail_href = f'/rnr/r/get-by-product/{refrigerator_id}/pdp/prod'
-        url = self.URL + product_detail_href
-        yield scrapy.Request(url=url, callback=self.page_parse)
+        for refrigerator_id in self.refrigerators_id_list[:50]:
+        # refrigerator_id = self.refrigerators_id_list[3]
+            product_detail_href = f'/rnr/r/get-by-product/{refrigerator_id}/pdp/prod'
+            url = self.URL + product_detail_href
+            print(url)
+            yield scrapy.Request(url=url, callback=self.page_parse)
 
     def page_parse(self, response):
         product = response.json()
         total_results = product.get('TotalResults')
-        print(total_results)
         limit = product.get('Limit')
         numPages = 1 if int(
             total_results/limit) == 0 else int(total_results/limit)+1
@@ -33,7 +33,6 @@ class ReviewsSpider(scrapy.Spider):
         for page in range(numPages):
             offset = f'?offset={(limit*page)}'
             page_review = url + offset
-            print(page_review)
             yield scrapy.Request(url=page_review, callback=self.get_reviews_parse)
 
     def get_reviews_parse(self, response):
@@ -52,8 +51,8 @@ class ReviewsSpider(scrapy.Spider):
                 'is_recommended': is_recommended,
                 'review': review
             }
-            print(review_info)
-            # put_table(review_info, 'Reviews')
+            # print(review_info)
+            put_table(review_info, 'Reviews')
 
     def load(self):
         f = open('json/product-dump.json', "r")

@@ -14,7 +14,7 @@ class RefrigeratorsSpider(scrapy.Spider):
 
     def start_requests(self):
         self.load()
-        for refrigerator_id in self.refrigerators_id_list[:10]:
+        for refrigerator_id in self.refrigerators_id_list[:5]:
             product_detail_href = f'/pd/{refrigerator_id}/productdetail/2707/Guest'
             url = self.URL + product_detail_href
             print(url)
