@@ -11,6 +11,9 @@ provider:
 functions:
   hello:
     handler: deploy/handler.run
+    timeout: 300
+  lamdaScrape:
+    handler: deploy/launcher.run
     
 custom:
   pythonRequirements:

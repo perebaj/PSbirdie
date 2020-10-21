@@ -4,7 +4,9 @@
 import scrapy
 import json
 from datetime import datetime
-from src.database import put_table
+from src.dynamodb.database import put_table
+from scrapy.crawler import CrawlerProcess
+from scrapy.utils.project import get_project_settings
 
 class RefrigeratorsSpider(scrapy.Spider):
     name = 'RefrigeratorsSpider'
@@ -12,7 +14,7 @@ class RefrigeratorsSpider(scrapy.Spider):
 
     def start_requests(self):
         self.load()
-        for refrigerator_id in self.refrigerators_id_list[:5]:
+        for refrigerator_id in self.refrigerators_id_list[:10]:
             product_detail_href = f'/pd/{refrigerator_id}/productdetail/2707/Guest'
             url = self.URL + product_detail_href
             print(url)
@@ -39,11 +41,13 @@ class RefrigeratorsSpider(scrapy.Spider):
             "date-time": current_time_date,
         
         }
-        put_table(product)
+        put_table(item=product_dict)
 
     def load(self):
-        f = open('product-dump.json', "r")
+        f = open('json/product-dump.json', "r")
         self.refrigerators_id_list = json.load(f)
 
     def save(self, product):
-        json.dump(product, open('products.json', 'w'))
+        json.dump(product, open('json/products.json', 'w'))
+
+

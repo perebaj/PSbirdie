@@ -3,7 +3,7 @@
 
 import scrapy
 import json
-from src.database import put_table
+from src.dynamodb.database import put_table
 from datetime import datetime
 
 
@@ -52,12 +52,12 @@ class ReviewsSpider(scrapy.Spider):
                 'is_recommended': is_recommended,
                 'review': review
             }
-            # print(review_info)
-            put_table(review_info, 'Reviews')
+            print(review_info)
+            # put_table(review_info, 'Reviews')
 
     def load(self):
-        f = open('product-dump.json', "r")
+        f = open('json/product-dump.json', "r")
         self.refrigerators_id_list = json.load(f)
 
     def save(self, product):
-        json.dump(product, open('reviews.json', 'w'))
+        json.dump(product, open('json/reviews.json', 'w'))
