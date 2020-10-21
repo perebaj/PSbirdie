@@ -1,9 +1,15 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -
 
+# from src.dynamodb.database import put_table
 import scrapy
+import pickle
 import re
 import json
+from scrapy.crawler import CrawlerProcess
+from scrapy.utils.project import get_project_settings
+import boto3
+from src.dynamodb.database import put_table
 
 SELECTOR = {
     "URL": '#mainContent > div.categorylist > div > div > div > h6 > a ::attr(href)'
@@ -40,7 +46,13 @@ class LowesSpider(scrapy.Spider):
 
         id_list = [product['product']['omniItemId'] for product in data['itemList']]
         self.products_id += id_list
-        self.save()
-
-    def save(self):
-        json.dump(self.products_id, open('product-dump.json', 'w'))
+        self.save(self.products_id)
+        # for product in data['itemList']:
+            # product_id = {
+                # 'product_id': product['product']['omniItemId']
+            # }
+            # print(product_id)
+            # put_table(product_id, 'Refrigerators_Id')
+    
+    def save(self, products_id_list):
+        json.dump(products_id_list, open('json/product-id2.json', 'w'))
