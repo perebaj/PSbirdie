@@ -5,59 +5,62 @@ import scrapy
 import json
 from src.dynamodb.database import put_table
 from datetime import datetime
-
+from src.sqs.client import send_message
+from src.sqs.client import receive_message
 
 class ReviewsSpider(scrapy.Spider):
 
     name = 'ReviewSpider'
     URL = 'https://www.lowes.com'
     reviews_list = []
-
+    queue_url = 'https://sqs.us-east-2.amazonaws.com/268650732939/reviews_url'
     def start_requests(self):
-        self.load()
-        # for refrigerator_id in self.refrigerators_id_list[:3]:
-        refrigerator_id = self.refrigerators_id_list[3]
-        product_detail_href = f'/rnr/r/get-by-product/{refrigerator_id}/pdp/prod'
-        url = self.URL + product_detail_href
-        yield scrapy.Request(url=url, callback=self.page_parse)
+        message = receive_message(self.queue_url)
+        print(f"- Fetching url {message}...")
+
+        if message:
+            yield scrapy.Request(url=message, callback=self.page_parse, dont_filter=True)
 
     def page_parse(self, response):
         product = response.json()
         total_results = product.get('TotalResults')
-        print(total_results)
+        if total_results == 0:
+            message = receive_message(self.queue_url)
+            if message:
+                yield scrapy.Request(url=message, callback=self.page_parse, dont_filter=True)
+
         limit = product.get('Limit')
         numPages = 1 if int(
             total_results/limit) == 0 else int(total_results/limit)+1
         url = response.url
+        print(f"- Info {total_results}, {limit} {numPages}...")
 
         for page in range(numPages):
             offset = f'?offset={(limit*page)}'
             page_review = url + offset
-            print(page_review)
-            yield scrapy.Request(url=page_review, callback=self.get_reviews_parse)
+            # send_message(page_review, self.queue_url)
+            yield scrapy.Request(url=page_review, callback=self.get_reviews_parse, dont_filter=True)
 
     def get_reviews_parse(self, response):
         product = response.json()
         result_list = product.get('Results')
         for result in result_list:
             rating = result.get('Rating')
-            reviews_id = result.get('Id')
+            review_id = result.get('Id')
             product_id = result.get('ProductId')
             is_recommended = result.get('IsRecommended')
             review = result.get('ReviewText')
+            print(f"- Fetching review {review_id}, {product_id} {response.url}...")
+
             review_info = {
-                'reviews_id': reviews_id,
+                'review_id': review_id,
                 'product_id': product_id,
                 'rating': rating,
                 'is_recommended': is_recommended,
                 'review': review
             }
-            print(review_info)
-            # put_table(review_info, 'Reviews')
+            put_table(review_info,'Reviews')
+            message = receive_message(self.queue_url)
+            if message:
+                yield scrapy.Request(url=message, callback=self.page_parse, dont_filter=True)
 
-    def load(self):
-        f = open('json/product-dump.json', "r")
-        self.refrigerators_id_list = json.load(f)
-
-    def save(self, product):
-        json.dump(product, open('json/reviews.json', 'w'))

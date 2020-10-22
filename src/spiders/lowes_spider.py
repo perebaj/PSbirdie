@@ -9,7 +9,7 @@ import json
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 import boto3
-from src.dynamodb.database import put_table
+from src.sqs.client import send_message
 
 SELECTOR = {
     "URL": '#mainContent > div.categorylist > div > div > div > h6 > a ::attr(href)'
@@ -18,7 +18,10 @@ SELECTOR = {
 class LowesSpider(scrapy.Spider):
     name = 'LowesSpider'
     URL = 'https://www.lowes.com'
-    products_id = []
+    product_queue_url = 'https://sqs.us-east-2.amazonaws.com/268650732939/refrigerators-urls'
+    review_queue_url = 'https://sqs.us-east-2.amazonaws.com/268650732939/reviews_url'
+
+    products_id_list = []
 
     def start_requests(self):
         urls = ['https://www.lowes.com/c/Refrigerators-Appliances']
@@ -29,7 +32,7 @@ class LowesSpider(scrapy.Spider):
         refrigerators_href_list = response.css(SELECTOR['URL']).getall()
         for url in refrigerators_href_list:
             url_list = self.URL + url
-            yield scrapy.Request(url=url_list, callback=self.page_parse)
+            yield scrapy.Request(url=url_list, callback=self.page_parse, dont_filter=True)
 
     def page_parse(self, response):
         data = json.loads(re.findall(
@@ -38,21 +41,17 @@ class LowesSpider(scrapy.Spider):
         numPages = 1 if int(itemsPage/36) == 0 else int(itemsPage/36)+1
         for page in range(numPages):
             newPage = response.url + f"?offset={(36*page)}"
-            yield scrapy.Request(url=newPage, callback=self.id_parse)
+            yield scrapy.Request(url=newPage, callback=self.id_parse, dont_filter=True)
 
     def id_parse(self, response):
         data = json.loads(re.findall(
             '__PRELOADED_STATE__ = ([^<]+)</script>', str(response.text))[0])
 
-        id_list = [product['product']['omniItemId'] for product in data['itemList']]
-        self.products_id += id_list
-        self.save(self.products_id)
-        # for product in data['itemList']:
-            # product_id = {
-                # 'product_id': product['product']['omniItemId']
-            # }
-            # print(product_id)
-            # put_table(product_id, 'Refrigerators_Id')
-    
-    def save(self, products_id_list):
-        json.dump(products_id_list, open('json/product-id2.json', 'w'))
+        for product in data['itemList']:
+            product_id = product['product']['omniItemId']
+            product_detail_href = f'/pd/{product_id}/productdetail/2707/Guest'
+            product_review_href = f'/rnr/r/get-by-product/{product_id}/pdp/prod'
+            product_detail_url = self.URL + product_detail_href
+            product_review_url = self.URL + product_review_href
+            # send_message(product_detail_url, self.product_queue_url)
+            send_message(product_review_url, self.review_queue_url)
