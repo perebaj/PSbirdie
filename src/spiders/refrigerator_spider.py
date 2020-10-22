@@ -7,18 +7,20 @@ from datetime import datetime
 from src.dynamodb.database import put_table
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
+from src.sqs.client import send_message, receive_message
+from scrapy.logformatter import LogFormatter
+import os
+import logging
 
 class RefrigeratorsSpider(scrapy.Spider):
     name = 'RefrigeratorsSpider'
     URL = 'https://www.lowes.com'
-
+    queue_url = 'https://sqs.us-east-2.amazonaws.com/268650732939/refrigerators-urls'
+    
     def start_requests(self):
-        self.load()
-        for refrigerator_id in self.refrigerators_id_list[:10]:
-            product_detail_href = f'/pd/{refrigerator_id}/productdetail/2707/Guest'
-            url = self.URL + product_detail_href
-            print(url)
-            yield scrapy.Request(url=url, callback=self.product_detail_parse)
+        message = receive_message(self.queue_url)
+        if message:
+            yield scrapy.Request(url=message, callback=self.product_detail_parse, dont_filter=True)
 
     def product_detail_parse(self, response):
         product = response.json()
@@ -32,6 +34,9 @@ class RefrigeratorsSpider(scrapy.Spider):
         pdURL = product.get('pdURL')
         product_url = self.URL + pdURL
         current_time_date = datetime.now().isoformat()
+        
+        print(f"- Fetching product {product_id}...")
+
         product_dict = {
             "product_id": product_id,
             "category": category_name,
@@ -42,12 +47,9 @@ class RefrigeratorsSpider(scrapy.Spider):
         
         }
         put_table(item=product_dict)
-
-    def load(self):
-        f = open('json/product-dump.json', "r")
-        self.refrigerators_id_list = json.load(f)
-
-    def save(self, product):
-        json.dump(product, open('json/products.json', 'w'))
+        message = receive_message(self.queue_url)
+        if message:
+            yield scrapy.Request(url=message, callback=self.product_detail_parse, dont_filter=True)
 
 
+    
