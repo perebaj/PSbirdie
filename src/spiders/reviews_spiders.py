@@ -7,7 +7,7 @@ from src.dynamodb.database import put_table
 from datetime import datetime
 from src.sqs.client import send_message
 from src.sqs.client import receive_message
-
+from datetime import datetime
 class ReviewsSpider(scrapy.Spider):
 
     name = 'ReviewSpider'
@@ -23,20 +23,20 @@ class ReviewsSpider(scrapy.Spider):
 
     def page_parse(self, response):
         product = response.json()
-        total_results = product.get('TotalResults')
-        if total_results == 0:
+        total_reviews_results = product.get('TotalResults')
+        if total_reviews_results == 0:
             message = receive_message(self.queue_url)
             if message:
                 yield scrapy.Request(url=message, callback=self.page_parse, dont_filter=True)
 
-        limit = product.get('Limit')
+        limite_reviews_per_page = product.get('Limit')
         numPages = 1 if int(
-            total_results/limit) == 0 else int(total_results/limit)+1
+            total_reviews_results/limite_reviews_per_page) == 0 else int(total_reviews_results/limite_reviews_per_page)+1
         url = response.url
-        print(f"- Info {total_results}, {limit} {numPages}...")
+        print(f"- Info {total_reviews_results}, {limite_reviews_per_page} {numPages}...")
 
         for page in range(numPages):
-            offset = f'?offset={(limit*page)}'
+            offset = f'?offset={(limite_reviews_per_page*page)}'
             page_review = url + offset
             # send_message(page_review, self.queue_url)
             yield scrapy.Request(url=page_review, callback=self.get_reviews_parse, dont_filter=True)
@@ -45,6 +45,7 @@ class ReviewsSpider(scrapy.Spider):
         product = response.json()
         result_list = product.get('Results')
         for result in result_list:
+            current_time_date = datetime.now().isoformat()
             rating = result.get('Rating')
             review_id = result.get('Id')
             product_id = result.get('ProductId')
