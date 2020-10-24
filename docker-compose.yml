@@ -9,7 +9,9 @@ services:
             - AWS_ACCESS_KEY_ID
             - AWS_SECRET_ACCESS_KEY
             - AWS_DEFAULT_REGION
-    
+            - PYTHONIONENCODING=UTF-8
+            - PYTHONUNBUFFERED=1
+
     product-worker:
         build: 
             context: .
@@ -21,7 +23,7 @@ services:
             - PYTHONIONENCODING=UTF-8
             - PYTHONUNBUFFERED=1
     
-    review_worker:
+    review-worker:
         build: 
             context: .
             dockerfile: ./review-worker.Dockerfile
